@@ -2,14 +2,13 @@
 
 Technical leader transitioning from USAF strategic operations into software development and systems modernization.
 
-I have over 20 years of experience solving complex operational problems, leading teams, and building data-driven decision tools. I'm currently expanding my technical skillset through the **IBM Full-Stack Software Developer Professional Certificate**, working with modern web technologies and analytics tools.
+I have over 20 years of experience solving complex operational problems, leading teams, and building data-driven decision tools. I'm currently expanding my technical skillset through development of a small game project, WIP title "Plate Spinner".
 
 ---
 
 ## 🔧 Currently Working On
 
-- IBM Full-Stack Software Developer Professional Certificate
-- Full-stack application capstone project
+- Plate Spinner (working title) incremental non-idle game
 
 ---
 
@@ -34,6 +33,8 @@ Git • GitHub • VS Code
 Before transitioning into software development, I spent two decades leading large-scale operational programs in the U.S. Air Force, including modernization of data and analytics systems used to support global operations.
 
 My work frequently focused on replacing manual reporting and subjective analysis with **data-driven decision systems and automation tools**.
+
+Earlier this year I completed the IBM Full-Stack Software Developer Professional Certificate and a Full-stack application capstone project
 
 ---
 
