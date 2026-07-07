@@ -52,4 +52,4 @@ I'm interested in technical leadership roles where I can help organizations:
 ## 📫 Connect With Me
 
 LinkedIn  
-https://www.linkedin.com/in/jeremy-king-
+https://www.linkedin.com/in/jeremy-a-king
